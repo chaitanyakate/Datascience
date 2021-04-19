@@ -1,1 +1,1 @@
-#The following project is about resume scan using countvectorizer algorithm with the help of this you can be able to know how much percentage does your resume matches to the job description proposed by the company,This can be extremely useful while uploading  for jobs
+The following project is about resume scan using countvectorizer algorithm with the help of this you can be able to know how much percentage does your resume matches to the job description proposed by the company,This can be extremely useful while uploading  for jobs
