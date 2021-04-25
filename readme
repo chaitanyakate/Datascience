@@ -1,0 +1,6 @@
+
+#The following program takes the input image and after processing that image it converts the image into following
+1.Grey scale image
+2.Blurred image
+3.Inverted Image
+4.Pencil sketch image
